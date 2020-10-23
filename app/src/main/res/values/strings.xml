@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">A7S212021prac5</string>
+    <string name="ListaImagenes">Lista de imagenes</string>
+    <string name="piepantalla">Derechos Reservados</string>
+    <string name="logoinstagram">Logo de Instagram</string>
+    <string name="logowhatsapp">Logo de WhatsApp</string>
+    <string name="logotinder">Logo de Tinder</string>
+    <string name="logotelegram">Logo de Telegram</string>
+    <string name="iconobebe">Incono de bebe</string>
+    <string name="iconoprueba">Icono de prueba</string>
+    <string name="iconoprueba2">Icono Prueba2</string>
+    <string name="iconocovid">Icono Covid</string>
+    <string name="iconochido">Icono Chido</string>
+    <string name="miboton">Presione</string>
+    <string name="ingresanombre" />
+    <string name="ingresanombre1">Ingresa tu Nombre</string>
+</resources>
